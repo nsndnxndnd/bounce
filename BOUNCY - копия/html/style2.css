@@ -1,0 +1,174 @@
+body {margin: 0; padding: 0; font: 16px/24px century Gothic, Comic Sans MC, Sans-serif;}
+.cont {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.header {
+	width: 100%;
+	max-height: 400px;
+	clear: both;
+}
+.nav {
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	text-align: center;
+	padding: 0 7px;
+}
+.bg {
+    width: 100%
+	height: 100vh;
+	background: url(images/intro_01.jpg) center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	font-weight: 800px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.flex {
+	display: flex;
+}
+.nav__govno {
+	padding-left: 517px;
+}
+.zagolovok {
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 200;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.zagolovok__text {
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+
+}
+.cont2 {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.about__title {
+	font-weight: 100;
+	text-transform: uppercase;
+}
+.about__text {
+	font-size: 14px;
+	color: #777;
+}
+.bg__png {
+	width: 100%
+	height: 100vh;
+	background: url(images/images/images/PLATE_02_02_02.jpg) center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.knopka {
+	display: inline-block;
+	vertical-align: top;
+	padding: 14px 30px;
+	font-size: 16px;
+	color: #fff;
+	border-radius: 40px;
+	font-weight: 400;
+	text-decoration: none;
+    transition: background .2s linear;
+}
+.text {
+	color: #000;
+	font-size: 18px;
+	font-weight: 700;
+}
+.ghj {
+	color: #333;
+	font-size: 19px;
+	transition: color 0.2s linear;
+	font-weight: 700;
+	text-decoration: none;
+}
+.ghj:hover {
+	color: #777;
+}
+.ert {
+	width: 100%
+	height: 100vh;
+	background: url(images/light-4297386_1280.jpg) center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.fghj {
+	color: #333;
+	font-size: 19px;
+	transition: color 0.2s linear;
+	font-weight: 700;
+	text-decoration: none;
+	align-items: center;
+}
+.fghj:hover {
+	color: #aaa;
+} 
+.contre {
+	background-color: #aaa;
+}
+.asde {
+	width: 100%
+	height: 100vh;
+	background: url(images/light-4297386_1280.jpg) center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.nhy {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.qwerty {
+	width: 100%
+	height: 100vh;
+	background: url(images/Desktop_190704_2020.jpg) center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.ggfbs {
+	background-color: #aaa;
+} 
+.select {
+	color: #666;
+}
+.dsa:hover {
+    color: #777;
+}
+.poloska {
+	content: "";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background-color: #00CCFF;
+	margin: 0 auto;
+	align-items: center;
+}
+.qwerty2 {
+	width: 100%
+	height: 100vh;
+	background: url(images/Desktop_190710_2258.jpg) center no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.fgr {
+	text-align: center;
+}
+.rty {
+	display: flex;
+}
